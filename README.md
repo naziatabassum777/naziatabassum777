@@ -27,7 +27,7 @@
 ![Vue.js](https://img.shields.io/badge/-Vue-05122A?style=flat&logo=vue)&nbsp;
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)&nbsp;
 ![Php](https://img.shields.io/badge/-Php-05122A?style=flat&logo=php)&nbsp;
-![Python](https://img.shields.io/badge/-Nuxt-05122A?style=flat&logo=nuxt)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
 <!-- ![Flas/k](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp; -->
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
