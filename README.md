@@ -60,5 +60,5 @@
 <a target='blank' href="https://www.linkedin.com/in/nazia-tabassum-4666b5227/"><img src="https://img.shields.io/badge/-nazia-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a target='blank' href="https://www.facebook.com/profile.php?id=100007099351865&mibextid=2JQ9oc"><img src="https://img.shields.io/badge/-Nazia?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
-<img alt="Night Coding" src="girl-code.jpg" align="center"/> 
+<img alt="Night Coding" src="code-g.webp" align="center"/> 
 
