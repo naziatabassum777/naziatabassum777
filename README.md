@@ -38,7 +38,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![PhpStrom](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![PhpStrom](https://img.shields.io/badge/-PhpStrom-05122A?style=flat&logo=phpstrom&logoColor=007ACC)&nbsp;
 <!-- ![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp; -->
 <!-- ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)\ -->
 ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
@@ -60,5 +60,5 @@
 <a target='blank' href="https://www.linkedin.com/in/nazia-tabassum-4666b5227/"><img src="https://img.shields.io/badge/-nazia-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a target='blank' href="https://www.facebook.com/profile.php?id=100007099351865&mibextid=2JQ9oc"><img src="https://img.shields.io/badge/-Nazia?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
-<img alt="Night Coding" src="boy-coding.gif" align="center"/> 
+<img alt="Night Coding" src="girl-code.jpg" align="center"/> 
 
